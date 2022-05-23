@@ -1,5 +1,6 @@
 ### For setup TypScript/Loopback need following setup
 
-Get-ExecutionPolicy -List
+   
+          Get-ExecutionPolicy -List
 
-Set-ExecutionPolicy -Scope LocalMachine Unrestricted
+          Set-ExecutionPolicy -Scope LocalMachine Unrestricted
